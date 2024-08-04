@@ -1,2 +1,2 @@
 # OPEN
-## This contains the lab programs of OpenGL lab
+## This repo  contains the lab programs of OpenGL lab
